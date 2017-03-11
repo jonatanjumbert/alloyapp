@@ -1,0 +1,8 @@
+"E:/Windows/j0hN/Documents/Dropbox/appcelerator-workspace/TestAlloy/build/android/gen/android/support/v7/appcompat/R.java"
+"E:/Windows/j0hN/Documents/Dropbox/appcelerator-workspace/TestAlloy/build/android/gen/android/support/v7/cardview/R.java"
+"E:/Windows/j0hN/Documents/Dropbox/appcelerator-workspace/TestAlloy/build/android/gen/com/jonatanjumbert/testalloy/AssetCryptImpl.java"
+"E:/Windows/j0hN/Documents/Dropbox/appcelerator-workspace/TestAlloy/build/android/gen/com/jonatanjumbert/testalloy/R.java"
+"E:/Windows/j0hN/Documents/Dropbox/appcelerator-workspace/TestAlloy/build/android/gen/com/jonatanjumbert/testalloy/TestalloyActivity.java"
+"E:/Windows/j0hN/Documents/Dropbox/appcelerator-workspace/TestAlloy/build/android/gen/com/jonatanjumbert/testalloy/TestalloyAppInfo.java"
+"E:/Windows/j0hN/Documents/Dropbox/appcelerator-workspace/TestAlloy/build/android/gen/com/jonatanjumbert/testalloy/TestalloyApplication.java"
+"E:/Windows/j0hN/Documents/Dropbox/appcelerator-workspace/TestAlloy/build/android/gen/ti/modules/titanium/ui/R.java"
